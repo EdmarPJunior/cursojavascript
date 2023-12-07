@@ -12,3 +12,4 @@ anoNascimento = 2023 - idade
 console.log(nome, sobrenome, 'tem', idade, 'anos, e pesa', peso, 'Kg')
 console.log('tem', altura, 'de altura e seu IMC é', imc)
 console.log("nasceu no ano de", anoNascimento)
+console.log("FIM DO CÁLCULO")
